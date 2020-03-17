@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/017a174f-8980-4ac2-822e-80812f12fec7/resourceGroups/shibadivas/providers/Microsoft.Web/sites/shibadivas",
+    "appService.deploySubpath": ""
+}

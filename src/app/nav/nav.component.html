@@ -1,0 +1,57 @@
+<head>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-7827027680902383",
+      enable_page_level_ads: true
+    });
+  </script>
+</head>
+<nav class="navbar navbar-expand-md navbar-dark bg-primary">
+
+  <div class="container">
+      <a class="navbar-brand" [routerLink]="['/home']" ><img [src]="shibasit" alt="image" height="35" width=""> Shiba Divas' Puppies</a>
+    <div class="btn-group" dropdown>
+      <button id="button-basic" dropdownToggle type="button" class="btn btn-primary dropdown-toggle" aria-controls="dropdown-basic">
+          Puppies<span class="caret"></span>
+      </button>
+      <ul id="dropdown-basic" *dropdownMenu class="dropdown-menu" role="menu" aria-labelledby="button-basic"> 
+        <li role="menuitem">
+          <a class="dropdown-item" [routerLink]="['/puppy']">Available Puppies</a> 
+        </li>
+        <li role="menuitem">
+          <a class="dropdown-item" [routerLink]="['/pastpuppy']">Past Puppies</a> 
+        </li>
+      </ul>
+    </div>
+    <button type="button" class="btn btn-primary" [routerLink]="['/parent']">Parent Page</button>
+    <button type="button" class="btn btn-primary" [routerLink]="['/faqs']">FAQs</button>
+    <button type="button" class="btn btn-primary" [routerLink]="['/waitlist']">Wait List</button>
+    <div class="btn-group" dropdown>
+        <button id="button-basic" dropdownToggle type="button" class="btn btn-primary dropdown-toggle" aria-controls="dropdown-basic">
+            Shiba Facts<span class="caret"></span>
+        </button>
+        <ul id="dropdown-basic" *dropdownMenu class="dropdown-menu" role="menu" aria-labelledby="button-basic">
+          <li role="menuitem">
+            <a class="dropdown-item" [routerLink]="['/history']">Shiba History</a> 
+          </li>
+          <li role="menuitem">
+            <a class="dropdown-item" [routerLink]="['/attributes']">Shiba Characteristics</a> 
+          </li>
+        </ul>
+    </div>
+    <button type="button" class="btn btn-primary" [routerLink]="['/thedivas']">The Divas</button>
+    <button type="button" class="btn btn-primary" [routerLink]="['/petservices']">Pet Services</button>
+    <button class="btn btn-primary" onclick="window.location.href = 'https://www.shibadivasstore.com';">Pet Supplies</button>
+
+    <!-- <button>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick" />
+        <input type="hidden" name="hosted_button_id" value="7N46WZ2PCD8F8" />
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+      </form> &nbsp;
+    </button>  -->
+  </div>
+
+</nav>
