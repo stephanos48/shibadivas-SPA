@@ -15,12 +15,12 @@ export class PuppyComponent implements OnInit {
   heidi: any = '../assets/img/h3.png';
   teresa1: any = '../assets/img/t1.png';
   michael: any = '../assets/img/michael1.JPG';
-  angela: any = '../assets/img/angela1.JPG';
+  angela: any = '../assets/img/angela4.JPG';
   dwight: any = '../assets/img/dwight3.JPG';
-  erin: any = '../assets/img/erin1.JPG';
+  erin: any = '../assets/img/erin4.JPG';
   pam: any = '../assets/img/pam3.JPG';
-  pete: any = '../assets/img/pete1.JPG';
-  jim: any = '../assets/img/jim1.JPG';
+  pete: any = '../assets/img/pete5.JPG';
+  jim: any = '../assets/img/jim3.JPG';
 
   constructor() { }
 
