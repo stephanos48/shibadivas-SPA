@@ -38,6 +38,7 @@ import { ErinComponent } from './puppy/erin/erin.component';
 import { PamComponent } from './puppy/pam/pam.component';
 import { DwightComponent } from './puppy/dwight/dwight.component';
 import { TypeComponent } from './type/type.component';
+import { VideosComponent } from './videos/videos.component';
 
 
 export class CustomHammerConfig extends HammerGestureConfig {
@@ -80,7 +81,8 @@ export class CustomHammerConfig extends HammerGestureConfig {
       PeteComponent,
       ErinComponent,
       PamComponent,
-      TypeComponent
+      TypeComponent,
+      VideosComponent
    ],
    imports: [
       BrowserModule,

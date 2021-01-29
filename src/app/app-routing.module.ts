@@ -21,6 +21,7 @@ import { PetservicesComponent } from './petservices/petservices.component';
 import { TeresaComponent } from './parent/teresa/teresa.component';
 import { PennyComponent } from './pastpuppies/penny/penny.component';
 import { TessaComponent } from './pastpuppies/tessa/tessa.component';
+import { VideosComponent } from './videos/videos.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
@@ -44,6 +45,7 @@ const routes: Routes = [
   { path: 'teresa', component: TeresaComponent },
   { path: 'penny', component: PennyComponent },
   { path: 'tessa', component: TessaComponent },
+  { path: 'videos', component: VideosComponent },
   { path: '**', redirectTo: 'home', pathMatch: 'full' },
 ];
 
