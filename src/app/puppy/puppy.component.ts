@@ -21,8 +21,8 @@ export class PuppyComponent implements OnInit {
   pam: any = '../assets/img/pam3.JPG';
   pete: any = '../assets/img/pete5.JPG';
   jim: any = '../assets/img/jim3.JPG';
-  aang: any = '../assets/img/aang.jpg';
-  toph: any = '../assets/img/toph.jpg';
+  aang: any = '../assets/img/aang2.jpg';
+  toph: any = '../assets/img/toph1.jpg';
   sokka: any = '../assets/img/sokka.jpg';
   zuko: any = '../assets/img/zuko.jpg';
   iroh: any = '../assets/img/iroh.jpg';
