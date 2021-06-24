@@ -26,6 +26,11 @@ export class PuppyComponent implements OnInit {
   sokka: any = '../assets/img/sokka.jpg';
   zuko: any = '../assets/img/zuko.jpg';
   iroh: any = '../assets/img/iroh.jpg';
+  sasuke: any = '../assets/img/Sasuke-small.jpg';
+  naruto: any = '../assets/img/Naruto-small.jpg';
+  kakashi: any = '../assets/img/Kakashi1-small.jpg';
+  itachi: any = '../assets/img/Itachi-small.jpg';
+  jaraiya: any = '../assets/img/jaraiya-small.jpg';
 
   constructor() { }
 

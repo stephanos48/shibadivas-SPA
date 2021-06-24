@@ -22,6 +22,7 @@ import { TeresaComponent } from './parent/teresa/teresa.component';
 import { PennyComponent } from './pastpuppies/penny/penny.component';
 import { TessaComponent } from './pastpuppies/tessa/tessa.component';
 import { VideosComponent } from './videos/videos.component';
+import { BlogComponent } from './blog/blog.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
@@ -46,6 +47,7 @@ const routes: Routes = [
   { path: 'penny', component: PennyComponent },
   { path: 'tessa', component: TessaComponent },
   { path: 'videos', component: VideosComponent },
+  { path: 'blog', component: BlogComponent },
   { path: '**', redirectTo: 'home', pathMatch: 'full' },
 ];
 

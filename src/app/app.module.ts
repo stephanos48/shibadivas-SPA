@@ -39,6 +39,7 @@ import { PamComponent } from './puppy/pam/pam.component';
 import { DwightComponent } from './puppy/dwight/dwight.component';
 import { TypeComponent } from './type/type.component';
 import { VideosComponent } from './videos/videos.component';
+import { BlogComponent } from './blog/blog.component';
 
 
 export class CustomHammerConfig extends HammerGestureConfig {
@@ -82,7 +83,8 @@ export class CustomHammerConfig extends HammerGestureConfig {
       ErinComponent,
       PamComponent,
       TypeComponent,
-      VideosComponent
+      VideosComponent,
+      BlogComponent
    ],
    imports: [
       BrowserModule,
@@ -98,6 +100,7 @@ export class CustomHammerConfig extends HammerGestureConfig {
    ],
    providers: [
       { provide: HAMMER_GESTURE_CONFIG, useClass: CustomHammerConfig }
+
    ],
    bootstrap: [
       AppComponent

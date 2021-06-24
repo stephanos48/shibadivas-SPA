@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./zeedonk.component.css']
 })
 export class ZeedonkComponent implements OnInit {
+  pz: any = '../assets/img/persezeedonk.jpg';
+
 
   constructor() { }
 
