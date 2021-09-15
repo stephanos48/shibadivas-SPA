@@ -28,6 +28,11 @@ export class BlogComponent implements OnInit {
   kakashi1: any = '../assets/img/kakashi1.jpg';
   kakashi2: any = '../assets/img/kakashi2.jpg';
   perse12: any = '../assets/img/12.jpg';
+  naruto3: any = '../assets/img/naruto3.jpg';
+  naruto4: any = '../assets/img/naruto4.jpg';
+  sasuke3: any = '../assets/img/sasuke3.jpg';
+  sasuke4: any = '../assets/img/sasuke4.jpg';
+  nasa1: any = '../assets/img/nasa1.jpg';
 
   constructor() { }
 
