@@ -11,6 +11,7 @@ export class ParentComponent implements OnInit {
   bruno: any = '../assets/img/bruno-s.jpg';
   khalessi: any = '../assets/img/khalessi1.jpg';
   teresa: any = '../assets/img/teresa1.jpg';
+  angelina: any = '../assets/img/angelina-small.jpg';
 
   constructor() { }
 

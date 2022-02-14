@@ -33,6 +33,8 @@ export class BlogComponent implements OnInit {
   sasuke3: any = '../assets/img/sasuke3.jpg';
   sasuke4: any = '../assets/img/sasuke4.jpg';
   nasa1: any = '../assets/img/nasa1.jpg';
+  vet: any = '../assets/img/0926.jpg';
+  fromabove: any = '../assets/img/fromabove.jpg'
 
   constructor() { }
 

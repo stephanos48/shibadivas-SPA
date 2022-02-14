@@ -39,6 +39,12 @@ export class PastpuppiesComponent implements OnInit {
   kakashi: any = '../assets/img/Kakashi1-small.jpg';
   itachi: any = '../assets/img/Itachi-small.jpg';
   jaraiya: any = '../assets/img/jaraiya-small.jpg';
+  bakugo: any = '../assets/img/bakugo-small.jpg';
+  deku: any = '../assets/img/deku-small.jpg';
+  jirou: any = '../assets/img/jirou-small.jpg';
+  mina: any = '../assets/img/mina-small.jpg';
+  momo: any = '../assets/img/momo-small.jpg';
+  todoroki: any = '../assets/img/todoroki-small.jpg';
 
   constructor() { }
 
