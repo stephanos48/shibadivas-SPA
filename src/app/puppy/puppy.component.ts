@@ -37,9 +37,9 @@ export class PuppyComponent implements OnInit {
   mina: any = '../assets/img/mina-small.jpg';
   momo: any = '../assets/img/momo-small.jpg';
   todoroki: any = '../assets/img/todoroki-small.jpg';
-  kurapika: any = '../assets/img/kurapika-small.jpg';
-  killua: any = '../assets/img/killua-small.jpg';
-  gon: any = '../assets/img/gon-small.jpg';
+  kurapika: any = '../assets/img/kurapika-corrected.jpg';
+  killua: any = '../assets/img/killua-corrected.jpg';
+  gon: any = '../assets/img/gon-corrected.jpg';
 
   constructor() { }
 
