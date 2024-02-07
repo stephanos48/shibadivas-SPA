@@ -45,6 +45,46 @@ export class PastpuppiesComponent implements OnInit {
   mina: any = '../assets/img/mina-corrected.jpg';
   momo: any = '../assets/img/momo-corrected.jpg';
   todoroki: any = '../assets/img/todoroki-corrected.jpg';
+  kurapika: any = '../assets/img/kurapika-corrected.jpg';
+  killua: any = '../assets/img/killua-corrected.jpg';
+  gon: any = '../assets/img/gon-corrected.jpg';
+  annie: any = '../assets/img/Annie-Small.jpg';
+  armin: any = '../assets/img/Armin-Small.jpg';
+  eren: any = '../assets/img/Eren-Small.jpg';
+  levi: any = '../assets/img/Levi-Small.jpg';
+  mikasa: any = '../assets/img/MiKasa-Small1.JPG';
+  sasha: any = '../assets/img/Sasha-Small.jpg';
+  aki: any = '../assets/img/aki_small.jpg';
+  denji: any = '../assets/img/denji_small.jpg';
+  himeno: any = '../assets/img/himeno_small.jpg';
+  makima: any = '../assets/img/makima_small.jpg';
+  power: any = '../assets/img/power_small.jpg';
+  dean: any = '../assets/img/dean_small.jpg';
+  jess: any = '../assets/img/jess_small.jpg';
+  rory: any = '../assets/img/rory_small.jpg';
+  power1: any = '../assets/img/power_small1.jpg';
+  makima1: any = '../assets/img/makima_small1.jpg';
+  denji1: any = '../assets/img/denji_small1.jpg';
+  vector: any = '../assets/img/vector_small.jpg';
+  bob1: any = '../assets/img/bob_small1.jpg';
+  gru1: any = '../assets/img/gru_small1.jpg';
+  agnes1: any = '../assets/img/agnes_small1.jpg';
+  edith1: any = '../assets/img/edith_small2.jpg';
+  taylor1: any = '../assets/img/taylor_small1.jpg';
+  vector1: any = '../assets/img/vector_small1.jpg';
+  percy: any = '../assets/img/percy_small.jpg';
+  anabeth: any = '../assets/img/anabeth_small.jpg';
+  hazel: any = '../assets/img/hazel_small.jpg';
+  bianca: any = '../assets/img/bianca_small.jpg';
+  hiccup: any = '../assets/img/hiccup-1.jpg';
+  shania: any = '../assets/img/shania-1.jpg';
+  maria: any = '../assets/img/maria-1.jpg';
+  astrid: any = '../assets/img/astrid-1.jpg';
+  ron: any = '../assets/img/ron_small.jpg';
+  leslie: any = '../assets/img/leslie_small.jpg';
+  donna: any = '../assets/img/donna_small.jpg';
+  andy: any = '../assets/img/andy_small.jpg';
+  anne: any = '../assets/img/anne_small.jpg';
 
   constructor() { }
 
