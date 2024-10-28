@@ -82,6 +82,20 @@ export class PuppyComponent implements OnInit {
   donna: any = '../assets/img/donna_small.jpg';
   andy: any = '../assets/img/andy_small.jpg';
   anne: any = '../assets/img/anne_small.jpg';
+  cartman: any = '../assets/img/cartman_small1.jpg';
+  kyle: any = '../assets/img/kyle_small1.jpg';
+  kenny: any = '../assets/img/kenny_small2.jpg';
+  stan: any = '../assets/img/stan_small1.jpg';
+  lincoln: any = '../assets/img/lincoln_small.png';
+  robin: any = '../assets/img/robin_small.png';
+  daryll: any = '../assets/img/daryll_small.png';
+  cassandra: any = '../assets/img/cass_small.png';
+  toby: any = '../assets/img/toby_small.png';
+  gabe: any = '../assets/img/gabe_small.png';
+  michael2: any = '../assets/img/michael_small.png';
+  mary: any = '../assets/img/mary_small.png';
+  jimmy: any = '../assets/img/jimmy_small.png';
+  erin1: any = '../assets/img/erin_small.png';
 
   constructor() { }
 
